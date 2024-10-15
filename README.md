@@ -1,5 +1,3 @@
-# Portfolio Project Repository
+This Repository holds all files for the Excel project Coffee Sales Dashboard.
 
-This Repository holds all of my work from the Portfolio Projects I create.
-
-Feel free to take a look or to use these projects to help your own.
+Feel free to take a look and to use this to help your own projects.
