@@ -1,6 +1,6 @@
 ### About This Repository
 
-This Repository holds all files for the **Excel Project Coffee Sales Dashboard**.
+This Repository holds all files for the **Excel Project: Coffee Sales Dashboard**.
 
 **Coffee_Sales_Dashboard.xlsx** is the finished project.
 
