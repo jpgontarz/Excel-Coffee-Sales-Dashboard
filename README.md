@@ -2,9 +2,9 @@
 
 This Repository holds all files for the **Excel Project Coffee Sales Dashboard**.
 
-**Excel_Coffee_Sales_Dashboard.xlsx** is the finished project.
+**Coffee_Sales_Dashboard.xlsx** is the finished project.
 
-**Excel_Coffee_Sales_Dashbard_Project_Data.xlsx** consists of the original downloaded file plus some changes that made it my own.
+**Coffee_Sales_Project_Data.xlsx** consists of the original downloaded file plus some changes that made it my own.
 
 **coffeeOrdersData**, the original downloaded file, can be found [HERE](https://github.com/mochen862/excel-project-coffee-sales/blob/main/coffeeOrdersData.xlsx)
 
